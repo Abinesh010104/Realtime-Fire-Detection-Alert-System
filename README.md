@@ -22,10 +22,6 @@ The model was trained using Google Colab. You can find the Colab notebook for tr
 
 Contributions are welcome! Please create a pull request or open an issue to discuss any changes.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Acknowledgements
 
 - [Roboflow](https://roboflow.com) for providing the dataset.
